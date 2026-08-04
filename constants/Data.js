@@ -228,9 +228,7 @@ import tfox from "../assets/tanimals/tfox.mp4"
 import tbear from "../assets/tanimals/tbear.mp4"
 import telephant from "../assets/tanimals/telephant.mp4"
 
-
-// Gujarati vowels
-
+//gujarati vowels
 import g1 from "../assets/gvowels/g1.mp4"
 import g2 from "../assets/gvowels/g2.mp4"
 import g3 from "../assets/gvowels/g3.mp4"

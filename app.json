@@ -28,6 +28,7 @@
     "web": {
       "favicon": "./assets/icon.png"
     },
+    "newArchEnabled": true,
     "plugins": [
       "expo-font"
     ],
